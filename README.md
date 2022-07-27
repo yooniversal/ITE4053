@@ -1,6 +1,6 @@
 ## ITE4053 : 딥러닝 및 응용
 ### Assignment 1: 이미지 분류
-Linear Layer를 사용해 **CIFAR10 dataset**을 **분류**합니다.<br>
+Linear Layer를 사용해 **CIFAR10 dataset**을 분류합니다.<br>
 - activation function : *Sigmoid*
 - Optimizer : *Adam*
 - *Dropout*
